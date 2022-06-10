@@ -1,16 +1,16 @@
-<a href="#"><img width="100%" height="auto" src="https://dribbble.com/shots/15628402-Working-on-a-Project" height="175px"/></a>
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Subham</h1>
-<h3 align="center">I'm a passionate Full Stack Developer from India.</h3>
+
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Suvarna</h1>
+<h3 align="center">I'm a passionate computer science student from india</h3>
 
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **block chain technology**
+- 🔭 I’m currently working on **color password authentication project**
 
 - 🌱 I’m currently learning **Data Structures and Algorithms.**
 
-- 👯 I’m looking to collaborate on ** Projects**
+- 👯 I’m looking to collaborate on **web development projects**
 
 - 📫 How to reach me **suvarnasanapathi2001@gmail.com**
 
@@ -42,7 +42,7 @@
 ## 📊 My Github Stats
 
   <br/>
-    <a href="https://github.com/Suvvvv/github-readme-stats"><img alt="suvvv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suvvvv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
+    <a href="https://github.com/Suvvvv/github-readme-stats"><img alt="suvvvv's Github Stats" src="https://github-readme-stats.vercel.app/api?username=Suvvvv&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <a href="https://github.com/Suvvvv/github-readme-stats"><img alt="suvvvv's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suvvvv&langs_count=8&count_private=true&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
   <br/>
   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
@@ -59,9 +59,9 @@
 ## Connect with me:
 <p align="left">
 
-<a href = "https://www.linkedin.com/in/su/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
+<a href = "https://www.linkedin.com/in/sanapathi-suvarna-a08097190/"><img src="https://img.icons8.com/fluent/48/000000/linkedin.png"/></a>
 
-<a href = "https://www.instagram.com/subhamraoniar/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
+<a href = "https://www.instagram.com/suvarna_sanapathi/"><img src="https://img.icons8.com/fluent/48/000000/instagram-new.png"/></a>
 </a>
 
 </p>
